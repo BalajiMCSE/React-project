@@ -1,0 +1,18 @@
+/* .app {
+  min-height: 100vh;
+  width: 100%;
+  padding: 20px;
+
+  background-image: url("/bg4.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: min(900px, 100%);
+  background-color: #d69be8;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+  overflow: hidden;
+} */
